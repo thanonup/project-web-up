@@ -7,7 +7,10 @@ function App() {
     <div id="container">
       <div id="header-container">
         <h1 id="header-name">Portfolio</h1>
-        <h1 id="header-button">Portfolio</h1>
+
+        <h1 id="header-button">
+          <img src="image/Hambuerger.png" alt="buttonpng" />
+        </h1>
       </div>
     </div>
     // <div id="canvas-container">
